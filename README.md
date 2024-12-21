@@ -71,15 +71,15 @@ module jk_ff (j, k, clk, rst, q);
 endmodule
 ```
 
-**RTL **
+**RTL**
 
 
 ![exp07 digital](https://github.com/user-attachments/assets/1c24cc04-c653-4893-9386-4a9db34efdc5)
 
-**TIMING DIGRAMS **
+**TIMING DIGRAM**
 
 
 ![output07 digital](https://github.com/user-attachments/assets/0f1fe352-527d-4e7a-815e-e59b675ebd76)
 
-**RESULTS**
+**RESULT**
 JK flipflop using verilog and validating their functionality using their functional tables is verified
